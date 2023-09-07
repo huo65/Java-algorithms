@@ -6,7 +6,7 @@ import org.junit.Test;
 
 /**
  * 1. @ClassName LinkedListTest
- * 2. @Description TODO
+ * 2. @Description ；链表测试
  * 3. @Author huo
  * 4. @Date 2023/9/4 23:29
  */
