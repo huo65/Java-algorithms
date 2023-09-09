@@ -1,11 +1,9 @@
-package Queue.queue.__test__;
+package Queue.queue;
 
-import org.junit.jupiter.api.Test;
+
+import org.junit.Test;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
-import queue.DelayQueue;
-import queue.Delayed;
-import queue.Queue;
 
 import java.util.concurrent.TimeUnit;
 
